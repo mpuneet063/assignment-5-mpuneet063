@@ -18,3 +18,5 @@
 | *Submission Date* | 5 October 2025 |
 | *Documentation*  |  DA5401_Assignment5_DA25C016.ipynb
 | *Notebook Cells* | 40+ comprehensive cells with dynamic insights |
+
+**Note**: The notebook file is slightly large in memory so it might take a few seconds to load. However, once loaded, all the details are accurately visible.
